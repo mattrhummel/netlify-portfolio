@@ -1,0 +1,29 @@
+{
+  "name": "hummel-dev",
+  "version": "1.0.0",
+  "description": "matts portfolio",
+  "main": ".pnp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattrhummel/portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattrhummel/portfolio/issues"
+  },
+  "homepage": "https://github.com/mattrhummel/portfolio#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-serve": "^1.4.0",
+    "sass": "^1.52.2"
+  },
+  "dependencies": {
+    "gulp-livereload": "^4.0.2",
+    "reload": "^3.2.0",
+    "serve": "^13.0.2"
+  }
+}
